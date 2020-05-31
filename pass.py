@@ -25,3 +25,5 @@ elif ex == "02" or ex == "2":
  print ("«Exit to main menu KILLER >type in >[killer]»")
  ss = input("\033[31mkiller@673x\033[36m:\033[34m[killer]\033[32m# ")
  os.system (" " + (ss))
+elif ex == "00" or ex == "0":
+ os.system ("killer")
