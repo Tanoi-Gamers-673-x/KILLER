@@ -18,8 +18,8 @@ print (banner)
 print
 def main():
         print ("     Ahutor.      : APT 2600 ")
-        print ("     Codename.    : KR-001 ")
-        print ("     Version.     : 0.01 ")
+        print ("     Codename.    : KR-002 ")
+        print ("     Version.     : 0.02 ")
         print ("     Github.      : https://github.com/Tanoi-Gamers-673-x ")
         print ("     Youtube.     : https://www.youtube.com/channel/UCBbXzLM6IgJHxeMHl4oOk-g")
 main()
