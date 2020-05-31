@@ -110,8 +110,9 @@ elif qu2 == "07" or qu2 == "7":
           y
           format e:
           y
-
+ 
           shutdown -r -f -t 10"""
+ print (V7)
 elif qu2 == "00" or qu2 == "0":
  print ("\033[0m")
  os.system ("cd /$HOME/KILLER")
