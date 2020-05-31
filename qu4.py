@@ -55,7 +55,7 @@ elif qu4 == "02" or qu4 == "2":
             os.system ("sudo apt-get install figlet")
             os.system ("python3 Killer.py")
        	    os.system ("killer")
-elif qu4 == "00" or qu40 == "0":
+elif qu4 == "00" or qu4 == "0":
  os.system ("cd /$HOME/KILLER")
  os.system ("python3 Killer.py")
 else:
