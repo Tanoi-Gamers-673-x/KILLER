@@ -12,7 +12,7 @@ print ("     [02]>[Kalinux-673x]")
 print ("     [03]>[LTH]")
 print ("     [04]>[DDOSTN]")
 print ("     [05]>[LOAD-Command]")
-print ("     [00]>[Black To  HOME]")
+print ("     [00]>[Black To  HOME KILLER]")
 print
 qu3 = input("\033[31mkiller@673x\033[36m:\033[34mMy Script\033[32m# ")
 
