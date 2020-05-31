@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+clear 
+cd
+cd KILLER
+python3 Killer.py
