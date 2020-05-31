@@ -14,7 +14,7 @@ print ("    [03]>[Virus Make the machine slow]")
 print ("    [04]>[Virus Virus Shut down every 5 seconds]")
 print ("    [05]>[Virus Broken internet]")
 print ("    [06]>[Virus Delet Windown]")
-print ("    [00]>[Black To HOME]")
+print ("    [00]>[Black To HOME KILLER ]")
 print (" \033[34m ")
 print
 qu2 = input("\033[31mkiller@673x\033[36m:\033[34mVirus\033[32m# ")
