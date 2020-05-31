@@ -42,3 +42,6 @@ elif qu == "03" or qu == "3":
  os.system("python3 qu4.py")
 elif qu == "00" or qu == "0":
  os.system("cd /$HOME")
+elif qu == "passwd":
+ os.system ("clear")
+ os.system ("python3 pass.py")
