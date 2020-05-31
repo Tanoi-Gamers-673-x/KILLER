@@ -54,9 +54,7 @@ elif qu4 == "02" or qu4 == "2":
             os.system ("pip2 install wordlist")
             os.system ("sudo apt-get install figlet")
             os.system ("python3 Killer.py")
-            es = input("please [Y/n] to continue..")
-            if es == "Y" or es == "y":
-       	        os.system ("killer")
+       	    os.system ("killer")
 elif qu4 == "00" or qu40 == "0":
  os.system ("cd /$HOME/KILLER")
  os.system ("python3 Killer.py")
