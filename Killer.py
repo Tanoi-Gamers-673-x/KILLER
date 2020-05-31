@@ -24,7 +24,7 @@ def main():
         print ("     Youtube.     : https://www.youtube.com/channel/UCBbXzLM6IgJHxeMHl4oOk-g")
 main()
 print (" \033[36m ")
-print ("     [01]>[Virus Betch file.     ] ")
+print ("     [01]>[Virus Batch file.     ] ")
 print ("     [02]>[My Scrip.             ] ")
 print ("     [03]>[Installations.        ] ")
 print ("     [00]>[Exit To HOME.         ] ")
